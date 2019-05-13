@@ -8,7 +8,6 @@
     "dev": "node lib/webpack-dev.js",
     "prod": "node lib/webpack-prod.js",
     "eslint": "./node_modules/.bin/eslint \"*.js\"",
-    "stylelint": "./node_modules/.bin/stylelint \"src/**/*.scss\""
   },
   "repository": {
     "type": "git",
