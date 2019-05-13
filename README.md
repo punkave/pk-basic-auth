@@ -25,4 +25,4 @@ module.exports = {
 
 ## Options
 
-`users`: Takes comma seperated key/value pairs.
+`users`: Takes one or many comma seperated key/value pairs.
