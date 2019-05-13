@@ -1,8 +1,8 @@
+[![CircleCI](https://circleci.com/gh/punkave/pk-basic-auth.svg?style=svg)](https://circleci.com/gh/punkave/pk-basic-auth)
+
 # pk-basic-auth
 
-HTTP basic auth middleware for [ApostropheCMS](http://apostrophecms.org/).
-
-This module uses [express-basic-auth](https://www.npmjs.com/package/express-basic-auth).
+HTTP basic auth middleware for [ApostropheCMS](http://apostrophecms.org/). This module uses [express-basic-auth](https://www.npmjs.com/package/express-basic-auth).
 
 This module provides HTTP basic auth in addition to ApostropheCMS's login. This does not log a user into ApostropheCMS. One intended use case of this module is to lockdown an application from the public before the application launches to a set of one or multiple static users.
 
