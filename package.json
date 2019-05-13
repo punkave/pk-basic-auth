@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run eslint",
-    "dev": "node lib/webpack-dev.js",
     "prod": "node lib/webpack-prod.js",
     "eslint": "./node_modules/.bin/eslint \"*.js\"",
   },
