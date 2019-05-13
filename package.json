@@ -1,0 +1,32 @@
+{
+  "name": "pk-basic-auth",
+  "version": "1.0.0",
+  "description": "HTTP basic auth middlesware for ApostropheCMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run eslint",
+    "eslint": "./node_modules/.bin/eslint \"*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punkave/pk-basic-auth"
+  },
+  "author": "P'unk Ave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/pk-basic-auth/issues"
+  },
+  "homepage": "https://github.com/punkave/pk-basic-auth#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-punkave": "^2.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "dependencies": {
+    "express-basic-auth": "^1.2.0"
+  }
+}
