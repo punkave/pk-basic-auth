@@ -1,6 +1,6 @@
 {
   "name": "pk-basic-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP basic auth middlesware for ApostropheCMS.",
   "main": "index.js",
   "scripts": {
