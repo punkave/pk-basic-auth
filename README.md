@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/punkave/pk-basic-auth.svg?style=svg)](https://circleci.com/gh/punkave/pk-basic-auth)
+[![CircleCI](https://circleci.com/gh/punkave/pk-basic-auth.svg?style=svg&circle-token=6dbed78f69aa562a3be276603d02a6186ae472a4)](https://circleci.com/gh/punkave/pk-basic-auth)
 
 # pk-basic-auth
 
